@@ -1,3 +1,5 @@
+<div align="center">
+
 <img width="572" height="264" alt="EchoesOfGearHeart" src="https://github.com/user-attachments/assets/6a0b7a06-52d8-43f1-bbb9-e5c501a42945" />
 
 A narrative driven First Person Shooter where players need to eliminate special enemies with different weapons.
@@ -25,3 +27,4 @@ A narrative driven First Person Shooter where players need to eliminate special 
 <img width="500" height="597" alt="s3" src="https://github.com/user-attachments/assets/9a017f85-07bf-423d-b2cf-2d46687ed300" />
 <img width="500" height="526" alt="s2" src="https://github.com/user-attachments/assets/114803ac-2ba0-42bc-8c82-8412a3e33d6f" />
 
+</div>
